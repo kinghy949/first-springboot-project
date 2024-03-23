@@ -5,20 +5,20 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: 1234
+    password: root
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tDMbY3g7qJe1zfq2PDx
-    access-key-secret: eGHbQHe2dRYssHIMfcOPZuQMD8Vd0f
+    access-key-id: &*********
+    access-key-secret: /*****************
     bucket-name: web-myitlas
   redis:
     host: localhost
     port: 6379
-    password: 521241why
+    password: /**********
     database: 0
   wechat:
-    appid: wx0a7dc832e917ae13
-    secret: 8e8d37925ea78a3963371a383ae9e193
+    appid: /************
+    secret: /***********
     mchid: 1561414331
     mchSerialNo: 4B3B3DC35414AD50B1B755BAF8DE9CC7CF407606
     privateKeyFilePath: D:\pay\apiclient_key.pem
